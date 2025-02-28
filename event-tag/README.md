@@ -30,7 +30,7 @@ An interactive 3D event tag/name badge created with React, Three.js, and React T
 
 1. Clone this repository
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/rahul-004x/3D-event-tag.git
    cd event-tag
    ```
 
